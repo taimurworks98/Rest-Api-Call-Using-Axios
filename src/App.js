@@ -33,7 +33,8 @@ function App() {
           <span role='img' aria-label='love'>
             💚
           </span>{' '}
-          by Taimoor Malik
+          by{' '}
+          <a href="https://www.github.com/users/taimurworks98/repos" className="a1">Taimoor Malik</a>
         </div>
       </footer>
     </div>
